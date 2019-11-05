@@ -38,7 +38,6 @@
     "hypercore": "^7.5.0",
     "hypercore-crypto": "^1.0.0",
     "hyperdiscovery": "https://github.com/100ideas/hyperdiscovery",
-    "this-import-wont-work-on-stackblitz": "github:100ideas/hyperdiscovery",
     "hyperdrive": "^9.16.0",
     "node-dat-archive": "^2.2.0",
     "pauls-dat-api": "^8.1.0",
